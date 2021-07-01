@@ -1,0 +1,745 @@
+Order ID,Product,Quantity Ordered,Price Each,Order Date,City
+162009,iPhone,1,700,01/22/20 21:25,An Giang
+162009,Lightning Charging Cable,1,14.95,01/28/20 14:15, Vung Tau
+162009,Wired Headphones,2,11.99,01/17/20 13:33,Bac Giang
+162010,27in FHD Monitor,1,149.99,01/05/20 20:33,Bac Kan
+162011,Wired Headphones,1,11.99,01/25/20 11:59,Bac Lieu
+162012,AAA Batteries (4-pack),1,2.99,01/29/20 20:22,Bac Ninh
+162013,27in 4K Gaming Monitor,1,389.99,01/26/20 12:16,Ben Tre
+162014,USB-C Charging Cable,1,11.95,01/05/20 12:04,Binh Dinh
+162015,Bose SoundSport Headphones,1,99.99,01/01/20 10:30,Binh Duong
+162016,Apple Airpods Headphones,1,150,01/22/20 21:20,Binh Phuoc
+162017,Apple Airpods Headphones,1,150,01/07/20 11:29,Binh Thuan
+162018,Macbook Pro Laptop,1,1700,01/31/20 10:12,Ca Mau
+162019,AAA Batteries (4-pack),3,2.99,01/09/20 18:57,Can Tho
+162020,27in FHD Monitor,1,149.99,01/25/20 19:19,Cao Bang
+162021,Flatscreen TV,1,300,01/03/20 21:54,Da Nang
+162022,27in FHD Monitor,1,149.99,01/05/20 17:20,Dak Lak
+162023,Vareebadd Phone,1,400,01/10/20 11:20,Dak Nong
+162024,Apple Airpods Headphones,1,150,01/24/20 8:13,Dien Bien
+162025,USB-C Charging Cable,1,11.95,01/30/20 9:28,Dong Nai
+162026,AA Batteries (4-pack),1,3.84,01/17/20 0:09,Dong Thap
+162027,AAA Batteries (4-pack),1,2.99,01/08/20 11:51,Gia Lai
+162028,USB-C Charging Cable,1,11.95,01/09/20 20:55,Ha Giang
+162029,Google Phone,1,600,01/29/20 10:40,Ha Nam
+162030,Apple Airpods Headphones,1,150,01/12/20 18:51,Ha Noi
+162031,AA Batteries (4-pack),1,3.84,01/19/20 21:47,Ha Tinh
+162032,AAA Batteries (4-pack),2,2.99,01/20/20 17:26,Hai Duong
+162033,AAA Batteries (4-pack),1,2.99,01/01/20 22:00,Hai Phong
+162034,USB-C Charging Cable,1,11.95,01/09/20 18:14,Hau Giang
+162035,AAA Batteries (4-pack),1,2.99,01/16/20 12:35,Hoa Binh
+162036,Bose SoundSport Headphones,1,99.99,01/11/20 23:33,Hung Yen
+162037,Apple Airpods Headphones,1,150,01/03/20 9:46,Khanh Hua
+162037,Apple Airpods Headphones,1,150,01/01/20 16:52,Kien Giang
+162038,27in 4K Gaming Monitor,1,389.99,01/02/20 22:21,Kon Tum
+162039,Apple Airpods Headphones,1,150,01/09/20 8:28,Lai Chau
+162040,AA Batteries (4-pack),1,3.84,01/14/20 10:13,Lam Dong
+162041,27in 4K Gaming Monitor,1,389.99,01/03/20 20:05,Lang Son
+162042,Wired Headphones,1,11.99,01/27/20 23:10,Lao Cai
+162043,USB-C Charging Cable,1,11.95,01/30/20 10:51,Long An
+162044,AAA Batteries (4-pack),1,2.99,01/12/20 13:09,Nam Dinh
+162045,Wired Headphones,2,11.99,01/29/20 12:04,Nghe An
+162046,USB-C Charging Cable,1,11.95,01/17/20 11:30,Ninh Binh
+162047,USB-C Charging Cable,1,11.95,01/07/20 16:06,Ninh Thuan
+162048,Wired Headphones,1,11.99,01/07/20 16:06,Phu Yen
+162049,Lightning Charging Cable,1,14.95,01/21/20 22:23,Quang Binh
+162050,Bose SoundSport Headphones,1,99.99,01/13/20 19:07,Quang Nam
+162051,Lightning Charging Cable,1,14.95,01/26/20 12:14,Quang Ngoi
+162052,Lightning Charging Cable,1,14.95,01/03/20 19:10,Quang Ninh
+162053,AAA Batteries (4-pack),1,2.99,01/20/20 16:10,Quang Tri
+162054,Lightning Charging Cable,1,14.95,01/05/20 16:51,Soc Trang
+162055,Vareebadd Phone,1,400,01/11/20 18:10,Son La
+162056,Flatscreen TV,1,300,01/02/20 16:16,Tay Ninh
+162057,Wired Headphones,1,11.99,01/29/20 18:30,Thai Binh
+162058,AAA Batteries (4-pack),3,2.99,01/14/20 14:13,Thai Nguyen
+162059,27in 4K Gaming Monitor,1,389.99,01/02/20 20:33,Thanh Hoa
+162060,Bose SoundSport Headphones,1,99.99,01/31/20 8:38,Thua Thien Hue
+162061,Macbook Pro Laptop,1,1700,01/19/20 8:17,Tien Giang
+162062,20in Monitor,1,109.99,01/28/20 11:17,Thanh pho Ho Cho Minh
+162063,Apple Airpods Headphones,1,150,01/02/20 8:25,Tra Vinh
+162064,AA Batteries (4-pack),3,3.84,01/02/20 8:25,Tuyen Quang
+162065,AA Batteries (4-pack),1,3.84,01/26/20 18:11,Vinh Long
+162066,AAA Batteries (4-pack),1,2.99,01/21/20 8:46,Vinh Phuc
+162066,USB-C Charging Cable,1,11.95,01/18/20 12:21,Yen Bai
+162067,iPhone,1,700,02/18/20 1:35,Quang Tri
+162068,AA Batteries (4-pack),1,3.84,02/13/20 7:24,Soc Trang
+162069,27in 4K Gaming Monitor,1,389.99,02/18/20 9:46,Son La
+162070,Lightning Charging Cable,1,14.95,02/02/20 16:47,Tay Ninh
+162071,AA Batteries (4-pack),2,3.84,02/28/20 20:32,Thai Binh
+162071,Lightning Charging Cable,1,14.95,02/24/20 18:50,Thai Nguyen
+162072,AA Batteries (4-pack),1,3.84,02/21/20 19:26,Thanh Hoa
+162073,Apple Airpods Headphones,1,150,02/26/20 19:53,Thua Thien Hue
+162074,USB-C Charging Cable,1,11.95,02/17/20 21:48,Tien Giang
+162075,USB-C Charging Cable,1,11.95,02/22/20 7:36,Thanh pho Ho Cho Minh
+162076,Bose SoundSport Headphones,1,99.99,02/17/20 18:29,Tra Vinh
+162077,Bose SoundSport Headphones,1,99.99,02/25/20 20:49,Tuyen Quang
+162078,27in FHD Monitor,1,149.99,02/03/20 0:21,Vinh Long
+162079,Apple Airpods Headphones,1,150,02/18/20 14:53,Vinh Phuc
+162080,Lightning Charging Cable,1,14.95,02/20/20 12:29,Yen Bai
+162081,Wired Headphones,1,11.99,02/08/20 12:57,An Giang
+162082,Macbook Pro Laptop,1,1700,02/26/20 12:38,Vung Tau
+162082,iPhone,1,700,02/26/20 12:38,Bac Giang
+162083,Wired Headphones,1,11.99,02/23/20 13:25,Bac Kan
+162084,AA Batteries (4-pack),2,3.84,02/27/20 14:39,Bac Lieu
+162085,Flatscreen TV,1,300,02/27/20 20:07,Bac Ninh
+162086,20in Monitor,1,109.99,02/12/20 0:00,Ben Tre
+162087,LG Dryer,1,600,02/27/20 20:24,Binh Dinh
+162087,Wired Headphones,1,11.99,02/28/20 13:47,Binh Duong
+162088,20in Monitor,1,109.99,02/25/20 9:38,Binh Phuoc
+162089,AAA Batteries (4-pack),1,2.99,02/15/20 11:31,Binh Thuan
+162090,USB-C Charging Cable,1,11.95,02/07/20 14:33,Ca Mau
+162091,AAA Batteries (4-pack),2,2.99,02/26/20 23:17,Can Tho
+162092,AA Batteries (4-pack),4,3.84,02/11/20 13:10,Cao Bang
+162092,ThinkPad Laptop,1,999.99,02/05/20 14:19,Hoa Binh
+162093,USB-C Charging Cable,1,11.95,02/28/20 18:16,Hung Yen
+162094,USB-C Charging Cable,1,11.95,02/04/20 22:57,Khanh Hua
+162095,AAA Batteries (4-pack),1,2.99,03/01/20 3:06,Kien Giang
+162096,AAA Batteries (4-pack),2,2.99,02/12/20 22:02,Kon Tum
+162097,AAA Batteries (4-pack),1,2.99,02/21/20 11:46,Lai Chau
+162098,Wired Headphones,1,11.99,02/13/20 22:43,Lam Dong
+162099,Wired Headphones,1,11.99,02/23/20 13:31,Lang Son
+162100,Apple Airpods Headphones,1,150,02/22/20 17:28,Lao Cai
+162101,AA Batteries (4-pack),2,3.84,02/18/20 16:46,Long An
+162102,Apple Airpods Headphones,1,150,02/18/20 15:23,Nam Dinh
+162103,AAA Batteries (4-pack),1,2.99,03/01/20 1:03,Nghe An
+162104,AA Batteries (4-pack),1,3.84,02/02/20 19:46,Ninh Binh
+162105,Wired Headphones,1,11.99,02/08/20 9:21,Ninh Thuan
+162106,Lightning Charging Cable,1,14.95,02/10/20 17:19,Phu Yen
+162107,Macbook Pro Laptop,1,1700,02/25/20 20:35,Quang Binh
+162108,AAA Batteries (4-pack),1,2.99,02/07/20 14:01,Quang Nam
+162109,AAA Batteries (4-pack),1,2.99,02/06/20 17:51,Quang Ngoi
+162110,Macbook Pro Laptop,1,1700,02/18/20 22:56,Quang Ninh
+162111,iPhone,1,700,02/05/20 20:33,Quang Tri
+162112,ThinkPad Laptop,1,999.99,02/17/20 14:45,Da Nang
+162113,27in 4K Gaming Monitor,1,389.99,02/02/20 8:25,Dak Lak
+162114,Wired Headphones,1,11.99,02/21/20 19:06,Dak Nong
+162115,34in Ultrawide Monitor,1,379.99,02/20/20 21:42,Dien Bien
+162116,AA Batteries (4-pack),1,3.84,02/12/20 6:49,Dong Nai
+162117,27in FHD Monitor,1,149.99,02/18/20 11:27,Dong Thap
+162118,Lightning Charging Cable,1,14.95,02/10/20 13:25,Gia Lai
+162119,AA Batteries (4-pack),2,3.84,02/22/20 21:41,Ha Giang
+162120,Wired Headphones,1,11.99,02/04/20 16:09,Ha Nam
+162121,Apple Airpods Headphones,1,150,02/07/20 23:41,Ha Noi
+162122,Apple Airpods Headphones,1,150,02/05/20 14:29,Ha Tinh
+162123,Wired Headphones,1,11.99,02/22/20 17:55,Hai Duong
+162124,27in 4K Gaming Monitor,1,389.99,02/16/20 20:07,Hau Giang
+162125,iPhone,1,700,03/28/20 20:59,Nam Dinh
+162126,Lightning Charging Cable,1,14.95,03/28/20 20:59,Nghe An
+162127,Wired Headphones,2,11.99,03/28/20 20:59,Ninh Binh
+162128,Bose SoundSport Headphones,1,99.99,03/17/20 5:39,Ninh Thuan
+162129,34in Ultrawide Monitor,1,379.99,03/10/20 0:01,Phu Yen
+162130,AA Batteries (4-pack),1,3.84,03/20/20 21:33,Quang Binh
+162131,34in Ultrawide Monitor,1,379.99,03/15/20 23:05,Quang Nam
+162132,USB-C Charging Cable,1,11.95,03/01/20 21:33,Quang Ngoi
+162133,AA Batteries (4-pack),1,3.84,03/02/20 8:52,Quang Ninh
+162134,AAA Batteries (4-pack),5,2.99,03/19/20 21:10,Quang Tri
+162135,Lightning Charging Cable,1,14.95,03/02/20 13:55,Soc Trang
+162136,USB-C Charging Cable,2,11.95,03/18/20 11:07,Son La
+162137,AAA Batteries (4-pack),1,2.99,03/05/20 12:20,Tay Ninh
+162138,LG Washing Machine,1,600,03/26/20 18:17,Thai Binh
+162139,Wired Headphones,1,11.99,03/30/20 12:02,Thai Nguyen
+162140,AA Batteries (4-pack),1,3.84,03/17/20 22:18,Thanh Hoa
+162141,Apple Airpods Headphones,1,150,03/11/20 20:00,Thanh pho Ho Cho Minh
+162142,27in 4K Gaming Monitor,1,389.99,03/17/20 9:22,An Giang
+162142,AAA Batteries (4-pack),1,2.99,03/07/20 20:50,Vung Tau
+162143,iPhone,1,700,03/22/20 22:31,Bac Giang
+162144,AAA Batteries (4-pack),1,2.99,03/16/20 20:52,Bac Kan
+162145,AAA Batteries (4-pack),3,2.99,03/20/20 15:23,Bac Liou
+162146,AAA Batteries (4-pack),1,2.99,03/26/20 12:17,Bac Ninh
+162147,Google Phone,1,600,03/09/20 16:50,Ben Tre
+162148,Lightning Charging Cable,1,14.95,03/28/20 17:03,Binh Dinh
+162149,Lightning Charging Cable,1,14.95,03/31/20 10:39,Binh Duong
+162150,iPhone,1,700,03/19/20 11:06,Binh Phuoc
+162151,USB-C Charging Cable,1,11.95,03/26/20 20:34,Binh Thuan
+162152,Macbook Pro Laptop,1,1700,03/08/20 13:07,Ca Mau
+162153,Lightning Charging Cable,1,14.95,03/09/20 19:39,Can Tho
+162154,iPhone,1,700,03/23/20 2:11,Cao Bang
+162155,Lightning Charging Cable,1,14.95,03/23/20 2:11,Da Nang
+162156,AAA Batteries (4-pack),2,2.99,03/18/20 20:31,Dak Lak
+162157,AA Batteries (4-pack),1,3.84,03/29/20 12:01,Dak Nong
+162158,USB-C Charging Cable,1,11.95,03/25/20 9:11,Dien Bien
+162159,Apple Airpods Headphones,1,150,03/14/20 1:01,Dong Nai
+162160,USB-C Charging Cable,1,11.95,03/09/20 22:39,Thua Thien Hue
+162161,AA Batteries (4-pack),1,3.84,03/29/20 10:59,Tien Giang
+162161,27in FHD Monitor,1,149.99,03/22/20 10:11,Tra Vinh
+162162,Apple Airpods Headphones,1,150,03/26/20 13:31,Tuyen Quang
+162163,AAA Batteries (4-pack),2,2.99,03/20/20 20:33,Vinh Long
+162164,Bose SoundSport Headphones,1,99.99,03/08/20 18:41,Vinh Phuc
+162165,AA Batteries (4-pack),1,3.84,03/31/20 19:24,Yen Bai
+162166,Lightning Charging Cable,1,14.95,03/25/20 13:35,Hai Phong
+162167,AAA Batteries (4-pack),1,2.99,03/26/20 17:09,Hau Giang
+162168,AAA Batteries (4-pack),1,2.99,03/12/20 9:12,Hoa Binh
+162169,Wired Headphones,1,11.99,03/11/20 9:44,Hung Yen
+162170,iPhone,1,700,03/10/20 18:29,Khanh Hua
+162171,Wired Headphones,1,11.99,03/20/20 0:42,Kien Giang
+162172,AA Batteries (4-pack),1,3.84,03/29/20 9:21,Kon Tum
+162173,Wired Headphones,1,11.99,03/17/20 10:24,Lai Chau
+162174,Wired Headphones,1,11.99,03/30/20 18:44,Lam Dong
+162175,27in FHD Monitor,1,149.99,03/30/20 2:30,Lang Son
+162176,USB-C Charging Cable,1,11.95,03/03/20 5:47,Lao Cai
+162177,AAA Batteries (4-pack),3,2.99,03/10/20 16:04,Long An
+162178,Wired Headphones,1,11.99,03/01/20 22:07,Dong Thap
+162179,AAA Batteries (4-pack),1,2.99,03/24/20 3:37,Gia Lai
+162180,AAA Batteries (4-pack),2,2.99,03/02/20 11:58,Ha Giang
+162181,Macbook Pro Laptop,1,1700,03/05/20 9:00,Ha Nam
+162182,Google Phone,1,600,03/02/20 13:18,Ha Noi
+162183,AA Batteries (4-pack),1,3.84,03/13/20 13:57,Ha Tinh
+162184,USB-C Charging Cable,2,11.95,03/13/20 13:57,Hai Duong
+162185,Bose SoundSport Headphones,1,99.99,04/07/20 22:30,An Giang
+162186,Google Phone,1,600,04/12/20 14:38, Vung Tau
+162187,Wired Headphones,1,11.99,04/12/20 14:38,Bac Giang
+162187,Wired Headphones,1,11.99,04/30/20 9:27,Bac Kan
+162188,USB-C Charging Cable,1,11.95,04/29/20 13:03,Bac Lieu
+162189,Bose SoundSport Headphones,1,99.99,04/02/20 7:46,Bac Ninh
+162189,USB-C Charging Cable,1,11.95,04/12/20 10:58,Ben Tre
+162189,Macbook Pro Laptop,1,1700,04/24/20 10:38,Binh Dinh
+162190,Wired Headphones,1,11.99,04/08/20 14:05,Binh Duong
+162191,Google Phone,1,600,04/18/20 17:18,Binh Phuoc
+162192,Lightning Charging Cable,1,14.95,04/15/20 12:18,Binh Thuan
+162193,27in 4K Gaming Monitor,1,389.99,04/16/20 19:23,Ca Mau
+162194,AA Batteries (4-pack),1,3.84,04/22/20 15:09,Can Tho
+162195,Lightning Charging Cable,1,14.95,04/19/20 14:29,Cao Bang
+162196,Apple Airpods Headphones,1,150,04/04/20 20:30,Da Nang
+162197,USB-C Charging Cable,1,11.95,04/27/20 18:41,Dak Lak
+162198,Google Phone,1,600,04/03/20 19:42,Dak Nong
+162199,USB-C Charging Cable,1,11.95,04/03/20 19:42,Dien Bien
+162200,AAA Batteries (4-pack),1,2.99,04/27/20 0:30,Dong Nai
+162201,Apple Airpods Headphones,1,150,04/28/20 11:42,Dong Thap
+162202,Apple Airpods Headphones,1,150,04/04/20 19:25,Gia Lai
+162203,Apple Airpods Headphones,1,150,04/09/20 23:35,Ha Giang
+162204,AA Batteries (4-pack),1,3.84,04/11/20 10:23,Ha Nam
+162205,USB-C Charging Cable,1,11.95,04/05/20 0:35,Ha Noi
+162206,iPhone,1,700,04/09/20 21:38,Ha Tinh
+162207,Bose SoundSport Headphones,1,99.99,04/27/20 12:20,Hai Duong
+162208,AAA Batteries (4-pack),2,2.99,04/20/20 12:00,Hai Phong
+162209,Flatscreen TV,1,300,04/24/20 20:39,Hau Giang
+162210,Bose SoundSport Headphones,1,99.99,04/07/20 11:31,Hoa Binh
+162211,Bose SoundSport Headphones,1,99.99,04/07/20 11:31,Hung Yen
+162212,AAA Batteries (4-pack),2,2.99,04/10/20 17:00,Khanh Hua
+162213,Google Phone,1,600,04/10/20 17:00,Kien Giang
+162214,27in FHD Monitor,1,149.99,04/29/20 19:38,Kon Tum
+162215,20in Monitor,1,109.99,04/02/20 4:00,Lai Chau
+162215,Lightning Charging Cable,1,14.95,04/04/20 12:23,Lam Dong
+162216,Google Phone,1,600,04/11/20 11:46,Lang Son
+162217,Apple Airpods Headphones,1,150,04/21/20 7:21,Lao Cai
+162218,USB-C Charging Cable,1,11.95,04/27/20 13:04,Long An
+162219,Lightning Charging Cable,2,14.95,04/15/20 13:45,Nam Dinh
+162220,Wired Headphones,1,11.99,04/17/20 23:04,Nghe An
+162221,Wired Headphones,3,11.99,04/02/20 9:11,Ninh Binh
+162222,Apple Airpods Headphones,1,150,04/27/20 20:11,Ninh Thuan
+162223,USB-C Charging Cable,1,11.95,04/19/20 13:39,Phu Yen
+162224,AAA Batteries (4-pack),2,2.99,04/21/20 20:33,Quang Binh
+162225,Lightning Charging Cable,1,14.95,04/11/20 15:25,Quang Nam
+162226,27in 4K Gaming Monitor,1,389.99,04/30/20 15:54,Quang Ngoi
+162227,USB-C Charging Cable,1,11.95,04/02/20 22:32,Quang Ninh
+162228,Lightning Charging Cable,1,14.95,04/30/20 9:39,Quang Tri
+162229,USB-C Charging Cable,1,11.95,04/01/20 7:46,Soc Trang
+162230,USB-C Charging Cable,1,11.95,04/02/20 10:57,Son La
+162231,USB-C Charging Cable,1,11.95,04/15/20 16:29,Tay Ninh
+162232,LG Dryer,1,600,04/21/20 14:16,Thai Binh
+162233,AAA Batteries (4-pack),2,2.99,04/18/20 12:11,Thai Nguyen
+162234,iPhone,1,700,04/11/20 12:01,Thanh Hoa
+162235,Apple Airpods Headphones,1,150,04/11/20 16:59,Thua Thien Hue
+162236,AAA Batteries (4-pack),1,2.99,04/26/20 0:40,Tien Giang
+162237,Bose SoundSport Headphones,1,99.99,04/30/20 13:16,Thanh pho Ho Cho Minh
+162238,Apple Airpods Headphones,1,150,04/04/20 19:48,Tra Vinh
+162239,USB-C Charging Cable,2,11.95,04/26/20 18:58,Tuyen Quang
+162240,AA Batteries (4-pack),1,3.84,04/07/20 21:01,Vinh Long
+162241,Lightning Charging Cable,1,14.95,04/30/20 10:35,Vinh Phuc
+162242,USB-C Charging Cable,1,11.95,04/05/20 20:40,Yen Bai
+162243,Wired Headphones,1,11.99,05/16/20 17:14,Quang Tri
+162244,AA Batteries (4-pack),1,3.84,05/19/20 14:43,Soc Trang
+162244,27in FHD Monitor,1,149.99,05/24/20 11:36,Son La
+162245,Wired Headphones,1,11.99,05/02/20 20:40,Tay Ninh
+162246,AAA Batteries (4-pack),2,2.99,05/11/20 22:55,Thai Binh
+162247,iPhone,1,700,05/10/20 19:44,Thai Nguyen
+162248,USB-C Charging Cable,1,11.95,05/11/20 22:44,Thanh Hoa
+162249,Lightning Charging Cable,1,14.95,05/07/20 12:49,Thua Thien Hue
+162250,27in FHD Monitor,1,149.99,05/24/20 18:28,Tien Giang
+162251,Wired Headphones,1,11.99,05/04/20 18:38,Thanh pho Ho Cho Minh
+162252,ThinkPad Laptop,1,999.99,05/13/20 9:07,Tra Vinh
+162253,USB-C Charging Cable,1,11.95,05/12/20 10:07,Tuyen Quang
+162254,34in Ultrawide Monitor,1,379.99,05/19/20 17:52,Vinh Long
+162255,AA Batteries (4-pack),1,3.84,05/22/20 18:15,Vinh Phuc
+162256,AAA Batteries (4-pack),1,2.99,05/15/20 14:00,Yen Bai
+162257,Google Phone,1,600,05/31/20 18:07,An Giang
+162258,Wired Headphones,1,11.99,05/31/20 18:07,Vung Tau
+162259,27in FHD Monitor,1,149.99,05/04/20 15:08,Bac Giang
+162260,Google Phone,1,600,05/29/20 21:13,Bac Kan
+162261,Apple Airpods Headphones,1,150,05/10/20 22:33,Bac Lieu
+162262,Wired Headphones,1,11.99,05/20/20 1:57,Bac Ninh
+162263,AAA Batteries (4-pack),1,2.99,05/30/20 20:29,Ben Tre
+162264,Lightning Charging Cable,1,14.95,05/19/20 23:19,Binh Dinh
+162265,Lightning Charging Cable,1,14.95,05/12/20 8:44,Binh Duong
+162266,AA Batteries (4-pack),1,3.84,05/18/20 22:54,Binh Phuoc
+162267,Wired Headphones,3,11.99,05/07/20 7:15,Binh Thuan
+162268,AAA Batteries (4-pack),1,2.99,05/11/20 21:53,Ca Mau
+162269,LG Dryer,1,600,05/10/20 20:41,Can Tho
+162270,Wired Headphones,1,11.99,05/27/20 16:18,Cao Bang
+162271,Apple Airpods Headphones,1,150,05/24/20 0:34,Hoa Binh
+162272,iPhone,1,700,05/04/20 23:40,Hung Yen
+162273,Bose SoundSport Headphones,1,99.99,05/19/20 21:33,Khanh Hua
+162274,AAA Batteries (4-pack),2,2.99,05/19/20 21:28,Kien Giang
+162275,Wired Headphones,1,11.99,05/15/20 14:46,Kon Tum
+162276,AAA Batteries (4-pack),2,2.99,05/03/20 18:15,Lai Chau
+162277,AA Batteries (4-pack),2,3.84,05/05/20 11:51,Lam Dong
+162278,34in Ultrawide Monitor,1,379.99,05/09/20 15:57,Lang Son
+162279,Bose SoundSport Headphones,1,99.99,05/07/20 10:44,Lao Cai
+162280,iPhone,1,700,05/22/20 21:35,Long An
+162281,Bose SoundSport Headphones,1,99.99,05/03/20 9:45,Nam Dinh
+162282,USB-C Charging Cable,1,11.95,05/27/20 18:22,Nghe An
+162283,Bose SoundSport Headphones,1,99.99,05/09/20 20:06,Ninh Binh
+162284,Wired Headphones,1,11.99,05/23/20 19:58,Ninh Thuan
+162285,27in FHD Monitor,1,149.99,05/14/20 4:13,Phu Yen
+162286,Lightning Charging Cable,1,14.95,05/01/20 21:55,Quang Binh
+162287,Apple Airpods Headphones,1,150,05/12/20 23:13,Quang Nam
+162288,Lightning Charging Cable,1,14.95,05/07/20 23:57,Quang Ngoi
+162289,Wired Headphones,1,11.99,05/13/20 14:09,Quang Ninh
+162290,27in FHD Monitor,1,149.99,05/11/20 19:08,Quang Tri
+162291,Apple Airpods Headphones,1,150,05/09/20 21:58,Da Nang
+162292,USB-C Charging Cable,1,11.95,05/11/20 20:12,Dak Lak
+162293,AA Batteries (4-pack),1,3.84,05/23/20 12:27,Dak Nong
+162294,AAA Batteries (4-pack),2,2.99,05/23/20 20:31,Dien Bien
+162295,Flatscreen TV,1,300,05/18/20 10:18,Dong Nai
+162296,27in 4K Gaming Monitor,1,389.99,05/21/20 7:37,Dong Thap
+162297,27in FHD Monitor,1,149.99,05/23/20 21:32,Gia Lai
+162297,Google Phone,1,600,05/04/20 20:34,Ha Giang
+162298,AA Batteries (4-pack),1,3.84,05/28/20 23:03,Ha Nam
+162299,USB-C Charging Cable,1,11.95,05/06/20 11:27,Ha Noi
+162300,iPhone,1,700,05/12/20 11:11,Ha Tinh
+162301,Bose SoundSport Headphones,1,99.99,05/20/20 10:38,Hai Duong
+162302,Apple Airpods Headphones,1,150,05/22/20 10:53,Hau Giang
+162303,USB-C Charging Cable,1,11.95,06/23/20 19:34,Nam Dinh
+162304,Macbook Pro Laptop,1,1700,06/30/20 10:05,Nghe An
+162305,ThinkPad Laptop,1,999.99,06/24/20 20:18,Ninh Binh
+162306,27in FHD Monitor,1,149.99,06/05/20 10:21,Ninh Thuan
+162307,Bose SoundSport Headphones,1,99.99,06/25/20 18:58,Phu Yen
+162308,Apple Airpods Headphones,1,150,06/28/20 20:04,Quang Binh
+162309,Lightning Charging Cable,1,14.95,06/28/20 0:07,Quang Nam
+162310,Apple Airpods Headphones,1,150,06/16/20 21:30,Quang Ngoi
+162311,Wired Headphones,1,11.99,06/28/20 10:56,Quang Ninh
+162312,27in FHD Monitor,1,149.99,06/02/20 11:22,Quang Tri
+162313,Apple Airpods Headphones,1,150,06/24/20 13:55,Soc Trang
+162314,Flatscreen TV,1,300,06/12/20 14:36,Son La
+162315,AA Batteries (4-pack),1,3.84,06/07/20 15:39,Tay Ninh
+162316,AAA Batteries (4-pack),1,2.99,06/13/20 20:53,Thai Binh
+162317,AAA Batteries (4-pack),1,2.99,06/09/20 11:13,Thai Nguyen
+162318,34in Ultrawide Monitor,1,379.99,06/15/20 12:21,Thanh Hoa
+162319,AA Batteries (4-pack),1,3.84,06/29/20 18:01,Thanh pho Ho Cho Minh
+162320,iPhone,1,700,06/15/20 12:29,An Giang
+162321,Wired Headphones,1,11.99,06/15/20 12:29,Vung Tau
+162322,Google Phone,1,600,06/08/20 16:55,Bac Giang
+162323,34in Ultrawide Monitor,1,379.99,06/26/20 15:24,Bac Kan
+162324,Wired Headphones,1,11.99,06/27/20 11:18,Bac Liou
+162325,27in 4K Gaming Monitor,1,389.99,06/19/20 13:52,Bac Ninh
+162326,AAA Batteries (4-pack),3,2.99,06/23/20 16:19,Ben Tre
+162327,27in FHD Monitor,1,149.99,06/02/20 19:10,Binh Dinh
+162328,AA Batteries (4-pack),1,3.84,06/28/20 8:53,Binh Duong
+162329,Google Phone,1,600,06/28/20 22:13,Binh Phuoc
+162329,Apple Airpods Headphones,1,150,06/06/20 22:41,Binh Thuan
+162330,Macbook Pro Laptop,1,1700,06/09/20 1:48,Ca Mau
+162331,Google Phone,1,600,06/23/20 7:45,Can Tho
+162332,USB-C Charging Cable,1,11.95,06/23/20 7:45,Cao Bang
+162332,Wired Headphones,2,11.99,06/01/20 18:03,Da Nang
+162333,27in 4K Gaming Monitor,1,389.99,06/30/20 13:04,Dak Lak
+162334,20in Monitor,1,109.99,06/26/20 17:48,Dak Nong
+162335,Google Phone,1,600,06/16/20 16:59,Dien Bien
+162336,iPhone,1,700,06/16/20 7:21,Dong Nai
+162337,AA Batteries (4-pack),1,3.84,06/15/20 21:25,Thua Thien Hue
+162338,AA Batteries (4-pack),2,3.84,06/26/20 15:23,Tien Giang
+162339,AA Batteries (4-pack),1,3.84,06/13/20 12:23,Tra Vinh
+162340,Wired Headphones,1,11.99,06/06/20 12:09,Tuyen Quang
+162341,USB-C Charging Cable,1,11.95,06/01/20 15:48,Vinh Long
+162342,USB-C Charging Cable,1,11.95,06/22/20 11:53,Vinh Phuc
+162343,AA Batteries (4-pack),1,3.84,06/22/20 11:53,Yen Bai
+162344,iPhone,1,700,06/01/20 23:00,Hai Phong
+162345,Lightning Charging Cable,1,14.95,06/01/20 23:00,Hau Giang
+162346,USB-C Charging Cable,1,11.95,06/23/20 10:58,Hoa Binh
+162347,Lightning Charging Cable,1,14.95,06/13/20 18:58,Hung Yen
+162347,USB-C Charging Cable,2,11.95,06/11/20 14:30,Khanh Hua
+162348,20in Monitor,1,109.99,06/24/20 14:00,Kien Giang
+162349,Lightning Charging Cable,1,14.95,06/20/20 9:46,Kon Tum
+162350,AA Batteries (4-pack),2,3.84,06/21/20 21:18,Lai Chau
+162351,Apple Airpods Headphones,1,150,06/23/20 13:06,Lam Dong
+162352,Apple Airpods Headphones,1,150,06/21/20 15:55,Lang Son
+162352,AAA Batteries (4-pack),1,2.99,06/08/20 20:58,Lao Cai
+162353,AA Batteries (4-pack),1,3.84,06/22/20 15:11,Long An
+162354,Wired Headphones,1,11.99,06/14/20 17:09,Dong Thap
+162355,Bose SoundSport Headphones,1,99.99,06/06/20 12:20,Gia Lai
+162356,USB-C Charging Cable,1,11.95,06/11/20 10:06,Ha Giang
+162357,AA Batteries (4-pack),3,3.84,06/05/20 21:25,Ha Nam
+162358,Apple Airpods Headphones,1,150,06/26/20 11:52,Ha Noi
+162359,AA Batteries (4-pack),1,3.84,06/01/20 6:28,Ha Tinh
+162360,Lightning Charging Cable,1,14.95,06/05/20 13:50,Hai Duong
+162361,Apple Airpods Headphones,1,150,07/26/20 16:51,An Giang
+162361,Flatscreen TV,1,300,07/05/20 8:55, Vung Tau
+162362,AA Batteries (4-pack),1,3.84,07/29/20 12:41,Bac Giang
+162363,AA Batteries (4-pack),1,3.84,07/28/20 10:15,Bac Kan
+162364,AAA Batteries (4-pack),5,2.99,07/31/20 2:13,Bac Lieu
+162364,Bose SoundSport Headphones,1,99.99,07/03/20 18:30,Bac Ninh
+162365,Google Phone,1,600,07/21/20 22:39,Ben Tre
+162366,LG Dryer,1,600,07/17/20 13:44,Binh Dinh
+162367,USB-C Charging Cable,1,11.95,07/14/20 21:16,Binh Duong
+162368,Lightning Charging Cable,1,14.95,07/14/20 13:24,Binh Phuoc
+162368,AA Batteries (4-pack),1,3.84,07/30/20 4:42,Binh Thuan
+162369,Lightning Charging Cable,1,14.95,07/02/20 11:04,Ca Mau
+162370,34in Ultrawide Monitor,1,379.99,07/20/20 21:12,Can Tho
+162371,AAA Batteries (4-pack),1,2.99,07/05/20 12:16,Cao Bang
+162372,Bose SoundSport Headphones,1,99.99,07/13/20 20:46,Da Nang
+162373,Apple Airpods Headphones,1,150,07/09/20 2:59,Dak Lak
+162374,Lightning Charging Cable,2,14.95,07/15/20 17:44,Dak Nong
+162375,Wired Headphones,1,11.99,07/31/20 20:34,Dien Bien
+162376,Google Phone,1,600,07/15/20 17:18,Dong Nai
+162376,Vareebadd Phone,1,400,07/04/20 19:46,Dong Thap
+162377,Lightning Charging Cable,1,14.95,07/20/20 20:57,Gia Lai
+162378,USB-C Charging Cable,1,11.95,07/18/20 9:21,Ha Giang
+162379,Wired Headphones,1,11.99,07/24/20 17:32,Ha Nam
+162380,LG Dryer,1,600,07/30/20 13:20,Ha Noi
+162381,AA Batteries (4-pack),2,3.84,07/03/20 23:51,Ha Tinh
+162381,AAA Batteries (4-pack),1,2.99,07/23/20 12:20,Hai Duong
+162382,27in FHD Monitor,1,149.99,07/04/20 12:29,Hai Phong
+162383,Lightning Charging Cable,2,14.95,07/03/20 9:01,Hau Giang
+162384,Flatscreen TV,1,300,07/20/20 17:49,Hoa Binh
+162385,Apple Airpods Headphones,1,150,07/17/20 21:53,Hung Yen
+162386,Wired Headphones,2,11.99,07/05/20 15:06,Khanh Hua
+162387,Apple Airpods Headphones,1,150,07/02/20 5:48,Kien Giang
+162388,Lightning Charging Cable,1,14.95,07/07/20 10:00,Kon Tum
+162389,Lightning Charging Cable,1,14.95,07/20/20 23:39,Lai Chau
+162390,27in FHD Monitor,1,149.99,07/07/20 22:52,Lam Dong
+162391,Wired Headphones,1,11.99,07/21/20 21:51,Lang Son
+162391,20in Monitor,1,109.99,07/14/20 22:19,Lao Cai
+162392,ThinkPad Laptop,1,999.99,07/16/20 9:15,Long An
+162393,USB-C Charging Cable,1,11.95,07/10/20 8:18,Nam Dinh
+162394,USB-C Charging Cable,1,11.95,07/28/20 17:24,Nghe An
+162395,Lightning Charging Cable,1,14.95,07/17/20 19:05,Ninh Binh
+162396,Apple Airpods Headphones,1,150,07/08/20 12:34,Ninh Thuan
+162397,Lightning Charging Cable,1,14.95,07/06/20 16:01,Phu Yen
+162398,Lightning Charging Cable,1,14.95,07/31/20 2:56,Quang Binh
+162399,AA Batteries (4-pack),2,3.84,07/14/20 18:11,Quang Nam
+162400,USB-C Charging Cable,1,11.95,07/01/20 14:27,Quang Ngoi
+162401,27in 4K Gaming Monitor,1,389.99,07/11/20 20:18,Quang Ninh
+162402,AAA Batteries (4-pack),1,2.99,07/19/20 10:11,Quang Tri
+162403,AAA Batteries (4-pack),1,2.99,07/26/20 21:00,Soc Trang
+162404,ThinkPad Laptop,1,999.99,07/15/20 13:07,Son La
+162405,Lightning Charging Cable,1,14.95,07/11/20 8:44,Tay Ninh
+162406,Lightning Charging Cable,1,14.95,07/04/20 5:44,Thai Binh
+162407,Wired Headphones,1,11.99,07/20/20 9:20,Thai Nguyen
+162408,USB-C Charging Cable,1,11.95,07/29/20 9:11,Thanh Hoa
+162408,Macbook Pro Laptop,1,1700,07/24/20 20:18,Thua Thien Hue
+162409,AAA Batteries (4-pack),2,2.99,07/07/20 12:06,Tien Giang
+162409,AA Batteries (4-pack),2,3.84,07/13/20 1:01,Thanh pho Ho Cho Minh
+162410,20in Monitor,1,109.99,07/14/20 11:58,Tra Vinh
+162411,AA Batteries (4-pack),1,3.84,07/24/20 15:32,Tuyen Quang
+162412,AAA Batteries (4-pack),1,2.99,07/05/20 17:00,Vinh Long
+162413,AAA Batteries (4-pack),1,2.99,07/09/20 11:08,Vinh Phuc
+,Apple Airpods Headphones,1,150,07/05/20 14:49,Yen Bai
+162414,Wired Headphones,2,11.99,08/31/20 22:21,Quang Tri
+162415,Bose SoundSport Headphones,1,99.99,08/15/20 15:11,Soc Trang
+162416,iPhone,1,700,08/06/20 14:40,Son La
+162417,AA Batteries (4-pack),2,3.84,08/29/20 20:59,Tay Ninh
+162418,AA Batteries (4-pack),2,3.84,08/15/20 19:53,Thai Binh
+162419,Wired Headphones,1,11.99,08/02/20 23:54,Thai Nguyen
+162420,34in Ultrawide Monitor,1,379.99,08/04/20 19:52,Thanh Hoa
+162421,20in Monitor,1,109.99,08/13/20 7:16,Thua Thien Hue
+162422,Wired Headphones,1,11.99,08/25/20 20:11,Tien Giang
+162423,Macbook Pro Laptop,1,1700,08/07/20 15:43,Thanh pho Ho Cho Minh
+162424,LG Washing Machine,1,600,08/09/20 19:38,Tra Vinh
+162425,AA Batteries (4-pack),1,3.84,08/26/20 20:52,Tuyen Quang
+162426,AA Batteries (4-pack),1,3.84,08/19/20 12:40,Vinh Long
+162427,27in FHD Monitor,1,149.99,08/31/20 15:47,Vinh Phuc
+162428,Lightning Charging Cable,1,14.95,08/09/20 16:50,Yen Bai
+162429,Apple Airpods Headphones,1,150,08/23/20 19:29,An Giang
+162430,AAA Batteries (4-pack),1,2.99,08/15/20 19:13,Vung Tau
+162431,USB-C Charging Cable,1,11.95,08/23/20 12:54,Bac Giang
+162432,34in Ultrawide Monitor,1,379.99,08/08/20 16:06,Bac Kan
+162433,AAA Batteries (4-pack),1,2.99,08/21/20 10:55,Bac Lieu
+162434,AAA Batteries (4-pack),1,2.99,08/08/20 12:00,Bac Ninh
+162435,USB-C Charging Cable,1,11.95,08/23/20 7:34,Ben Tre
+162436,USB-C Charging Cable,1,11.95,08/20/20 13:26,Binh Dinh
+162437,27in 4K Gaming Monitor,1,389.99,08/12/20 21:57,Binh Duong
+162438,Apple Airpods Headphones,1,150,08/14/20 23:45,Binh Phuoc
+162439,Bose SoundSport Headphones,1,99.99,08/04/20 19:06,Binh Thuan
+162440,Lightning Charging Cable,1,14.95,08/21/20 0:48,Ca Mau
+162441,AA Batteries (4-pack),1,3.84,08/25/20 23:13,Can Tho
+162442,Wired Headphones,1,11.99,08/07/20 13:40,Cao Bang
+162443,AA Batteries (4-pack),2,3.84,08/20/20 21:07,Hoa Binh
+162444,Wired Headphones,1,11.99,08/09/20 8:55,Hung Yen
+162445,Apple Airpods Headphones,1,150,08/06/20 10:36,Khanh Hua
+162446,ThinkPad Laptop,1,999.99,08/23/20 11:10,Kien Giang
+162447,Bose SoundSport Headphones,1,99.99,08/08/20 6:09,Kon Tum
+162448,Flatscreen TV,1,300,08/11/20 8:52,Lai Chau
+162449,AA Batteries (4-pack),3,3.84,08/11/20 22:21,Lam Dong
+162450,Google Phone,1,600,08/14/20 14:19,Lang Son
+162451,AA Batteries (4-pack),2,3.84,08/14/20 14:06,Lao Cai
+162452,Apple Airpods Headphones,1,150,08/27/20 14:00,Long An
+162453,iPhone,1,700,08/04/20 9:00,Nam Dinh
+162454,Macbook Pro Laptop,1,1700,08/04/20 2:46,Nghe An
+162455,Macbook Pro Laptop,1,1700,08/28/20 17:28,Ninh Binh
+162456,AA Batteries (4-pack),2,3.84,08/30/20 7:14,Ninh Thuan
+162457,27in FHD Monitor,1,149.99,08/05/20 20:00,Phu Yen
+162458,27in 4K Gaming Monitor,1,389.99,08/30/20 9:07,Quang Binh
+162459,27in 4K Gaming Monitor,1,389.99,08/23/20 11:20,Quang Nam
+162460,AA Batteries (4-pack),2,3.84,08/17/20 20:12,Quang Ngoi
+162461,USB-C Charging Cable,1,11.95,08/17/20 20:12,Quang Ninh
+162462,Google Phone,1,600,08/11/20 12:26,Quang Tri
+162463,Apple Airpods Headphones,1,150,08/10/20 13:48,Da Nang
+162463,AAA Batteries (4-pack),1,2.99,08/05/20 12:09,Dak Lak
+162464,Apple Airpods Headphones,1,150,08/24/20 16:49,Dak Nong
+162465,Apple Airpods Headphones,1,150,08/02/20 12:24,Dien Bien
+162466,AAA Batteries (4-pack),2,2.99,08/07/20 12:42,Dong Nai
+162467,Apple Airpods Headphones,1,150,08/01/20 18:56,Dong Thap
+162468,Apple Airpods Headphones,1,150,08/21/20 1:08,Gia Lai
+162469,AAA Batteries (4-pack),3,2.99,08/24/20 20:15,Ha Giang
+162470,AA Batteries (4-pack),1,3.84,08/29/20 9:25,Ha Nam
+162471,USB-C Charging Cable,1,11.95,08/19/20 8:10,Ha Noi
+162472,ThinkPad Laptop,1,999.99,08/10/20 11:21,Ha Tinh
+162473,iPhone,1,700,08/09/20 9:28,Hai Duong
+162474,Apple Airpods Headphones,1,150,08/09/20 9:28,Hau Giang
+162475,AA Batteries (4-pack),4,3.84,09/17/20 14:44,Nam Dinh
+162476,USB-C Charging Cable,2,11.95,09/29/20 10:19,Nghe An
+162477,USB-C Charging Cable,1,11.95,09/16/20 17:48,Ninh Binh
+162478,27in FHD Monitor,1,149.99,09/27/20 7:52,Ninh Thuan
+162479,USB-C Charging Cable,1,11.95,09/01/20 19:03,Phu Yen
+162480,34in Ultrawide Monitor,1,379.99,09/13/20 14:59,Quang Binh
+162481,Lightning Charging Cable,1,14.95,09/07/20 9:59,Quang Nam
+162482,Lightning Charging Cable,1,14.95,09/02/20 14:16,Quang Ngoi
+162483,Vareebadd Phone,1,400,09/06/20 16:45,Quang Ninh
+162484,Wired Headphones,1,11.99,09/01/20 22:03,Quang Tri
+162485,USB-C Charging Cable,1,11.95,09/24/20 16:26,Soc Trang
+162486,AAA Batteries (4-pack),3,2.99,09/14/20 12:52,Son La
+162486,USB-C Charging Cable,1,11.95,09/25/20 12:32,Tay Ninh
+162487,27in FHD Monitor,1,149.99,09/12/20 15:57,Thai Binh
+162488,Lightning Charging Cable,1,14.95,09/15/20 12:42,Thai Nguyen
+162489,Apple Airpods Headphones,1,150,09/04/20 14:59,Thanh Hoa
+162490,Google Phone,1,600,09/02/20 18:52,Thanh pho Ho Cho Minh
+162490,USB-C Charging Cable,1,11.95,09/30/20 18:59,An Giang
+162491,20in Monitor,1,109.99,09/24/20 19:40,Vung Tau
+162492,AAA Batteries (4-pack),1,2.99,09/04/20 2:01,Bac Giang
+162493,USB-C Charging Cable,1,11.95,09/05/20 15:06,Bac Kan
+162494,USB-C Charging Cable,1,11.95,09/05/20 15:06,Bac Liou
+162495,Wired Headphones,1,11.99,09/13/20 16:49,Bac Ninh
+162496,Apple Airpods Headphones,1,150,09/14/20 20:47,Ben Tre
+162497,Bose SoundSport Headphones,1,99.99,09/17/20 22:57,Binh Dinh
+162498,iPhone,1,700,09/08/20 13:58,Binh Duong
+162499,AA Batteries (4-pack),2,3.84,09/12/20 13:18,Binh Phuoc
+162500,USB-C Charging Cable,1,11.95,09/24/20 20:36,Binh Thuan
+162501,Apple Airpods Headphones,1,150,09/03/20 21:52,Ca Mau
+162502,27in FHD Monitor,1,149.99,09/13/20 15:06,Can Tho
+162503,USB-C Charging Cable,1,11.95,09/28/20 15:52,Cao Bang
+162504,Apple Airpods Headphones,1,150,09/08/20 12:40,Da Nang
+162505,Apple Airpods Headphones,1,150,09/15/20 13:03,Dak Lak
+162506,34in Ultrawide Monitor,1,379.99,09/18/20 17:47,Dak Nong
+162507,AA Batteries (4-pack),1,3.84,09/07/20 11:23,Dien Bien
+162508,34in Ultrawide Monitor,1,379.99,09/17/20 15:10,Dong Nai
+162508,USB-C Charging Cable,1,11.95,09/05/20 13:53,Thua Thien Hue
+162509,AAA Batteries (4-pack),3,2.99,09/07/20 23:31,Tien Giang
+162510,Apple Airpods Headphones,1,150,09/08/20 22:17,Tra Vinh
+162511,Google Phone,1,600,09/14/20 12:45,Tuyen Quang
+162512,Bose SoundSport Headphones,1,99.99,09/24/20 21:47,Vinh Long
+162513,AAA Batteries (4-pack),1,2.99,09/22/20 11:25,Vinh Phuc
+162514,AAA Batteries (4-pack),2,2.99,09/21/20 9:16,Yen Bai
+162515,USB-C Charging Cable,1,11.95,09/05/20 0:40,Hai Phong
+162516,20in Monitor,1,109.99,09/29/20 20:50,Hau Giang
+162517,ThinkPad Laptop,1,999.99,09/10/20 23:29,Hoa Binh
+162518,Lightning Charging Cable,1,14.95,09/29/20 21:56,Hung Yen
+162519,Apple Airpods Headphones,1,150,09/02/20 19:39,Khanh Hua
+162520,AAA Batteries (4-pack),1,2.99,09/10/20 0:06,Kien Giang
+162521,Google Phone,1,600,09/11/20 12:47,Kon Tum
+162522,Lightning Charging Cable,1,14.95,09/28/20 9:11,Lai Chau
+162523,Bose SoundSport Headphones,1,99.99,09/26/20 7:40,Lam Dong
+162524,27in FHD Monitor,1,149.99,09/28/20 14:30,Lang Son
+162525,Apple Airpods Headphones,1,150,09/21/20 8:58,Lao Cai
+162526,Macbook Pro Laptop,1,1700,09/02/20 18:42,Long An
+162527,AA Batteries (4-pack),3,3.84,09/06/20 14:09,Dong Thap
+162528,AAA Batteries (4-pack),1,2.99,09/30/20 21:51,Gia Lai
+162529,Flatscreen TV,1,300,09/05/20 14:15,Ha Giang
+162530,Macbook Pro Laptop,1,1700,09/11/20 19:30,Ha Nam
+162531,Apple Airpods Headphones,1,150,09/14/20 20:38,Ha Noi
+162532,iPhone,1,700,09/27/20 10:33,Ha Tinh
+162533,Lightning Charging Cable,1,14.95,09/27/20 10:33,Hai Duong
+162534,34in Ultrawide Monitor,1,379.99,10/28/20 10:56,An Giang
+162535,27in 4K Gaming Monitor,1,389.99,10/28/20 17:26, Vung Tau
+162536,AAA Batteries (4-pack),2,2.99,10/24/20 17:20,Bac Giang
+162537,27in FHD Monitor,1,149.99,10/14/20 22:26,Bac Kan
+162538,Wired Headphones,1,11.99,10/07/20 16:10,Bac Lieu
+162539,AAA Batteries (4-pack),1,2.99,10/01/20 18:55,Bac Ninh
+162540,Wired Headphones,1,11.99,10/29/20 11:02,Ben Tre
+162541,Lightning Charging Cable,1,14.95,10/29/20 11:19,Binh Dinh
+162542,Apple Airpods Headphones,1,150,10/20/20 11:52,Binh Duong
+162543,Apple Airpods Headphones,1,150,10/16/20 16:19,Binh Phuoc
+162544,27in FHD Monitor,1,149.99,10/13/20 13:47,Binh Thuan
+162545,USB-C Charging Cable,1,11.95,10/26/20 10:54,Ca Mau
+162546,20in Monitor,1,109.99,10/28/20 23:56,Can Tho
+162547,iPhone,1,700,10/26/20 12:12,Cao Bang
+162548,Wired Headphones,1,11.99,10/17/20 11:07,Da Nang
+162549,27in FHD Monitor,1,149.99,10/31/20 20:15,Dak Lak
+162550,Apple Airpods Headphones,1,150,10/17/20 22:14,Dak Nong
+162551,USB-C Charging Cable,1,11.95,10/10/20 8:53,Dien Bien
+162552,27in FHD Monitor,1,149.99,10/12/20 0:03,Dong Nai
+162553,Bose SoundSport Headphones,1,99.99,10/23/20 16:49,Dong Thap
+162554,Lightning Charging Cable,1,14.95,10/18/20 16:45,Gia Lai
+162554,27in 4K Gaming Monitor,1,389.99,10/09/20 13:15,Ha Giang
+162555,Apple Airpods Headphones,1,150,10/19/20 12:21,Ha Nam
+162556,ThinkPad Laptop,1,999.99,10/25/20 8:44,Ha Noi
+162557,Wired Headphones,1,11.99,10/18/20 14:16,Ha Tinh
+162557,Apple Airpods Headphones,1,150,10/13/20 12:32,Hai Duong
+162558,ThinkPad Laptop,1,999.99,10/29/20 23:22,Hai Phong
+162559,Lightning Charging Cable,1,14.95,10/28/20 15:28,Hau Giang
+162560,Lightning Charging Cable,1,14.95,10/16/20 21:39,Hoa Binh
+162561,Bose SoundSport Headphones,1,99.99,10/01/20 13:58,Hung Yen
+162562,AA Batteries (4-pack),1,3.84,10/12/20 13:15,Khanh Hua
+162563,AAA Batteries (4-pack),1,2.99,10/17/20 14:14,Kien Giang
+162564,Lightning Charging Cable,1,14.95,10/08/20 12:35,Kon Tum
+162565,Google Phone,1,600,10/24/20 12:51,Lai Chau
+162566,Wired Headphones,1,11.99,10/19/20 15:26,Lam Dong
+162567,AA Batteries (4-pack),1,3.84,10/22/20 20:35,Lang Son
+162568,AA Batteries (4-pack),1,3.84,10/24/20 18:58,Lao Cai
+162569,Bose SoundSport Headphones,1,99.99,10/13/20 13:55,Long An
+162570,AAA Batteries (4-pack),1,2.99,10/23/20 22:40,Nam Dinh
+162571,Wired Headphones,1,11.99,10/01/20 14:39,Nghe An
+162572,Bose SoundSport Headphones,1,99.99,10/22/20 10:20,Ninh Binh
+162573,AAA Batteries (4-pack),2,2.99,10/31/20 19:06,Ninh Thuan
+162574,27in 4K Gaming Monitor,1,389.99,10/19/20 9:24,Phu Yen
+162575,Wired Headphones,1,11.99,10/15/20 23:39,Quang Binh
+162576,AA Batteries (4-pack),3,3.84,10/09/20 20:27,Quang Nam
+162577,USB-C Charging Cable,1,11.95,10/25/20 19:42,Quang Ngoi
+162578,Bose SoundSport Headphones,1,99.99,10/07/20 19:48,Quang Ninh
+162579,Bose SoundSport Headphones,1,99.99,10/07/20 19:19,Quang Tri
+162580,AA Batteries (4-pack),1,3.84,10/12/20 12:01,Soc Trang
+162581,Lightning Charging Cable,1,14.95,10/30/20 12:09,Son La
+162582,34in Ultrawide Monitor,1,379.99,10/21/20 20:09,Tay Ninh
+162583,27in FHD Monitor,1,149.99,10/03/20 16:26,Thai Binh
+162584,AA Batteries (4-pack),2,3.84,10/01/20 21:32,Thai Nguyen
+162585,AA Batteries (4-pack),1,3.84,10/09/20 14:47,Thanh Hoa
+162586,Apple Airpods Headphones,1,150,10/24/20 18:05,Thua Thien Hue
+162587,Bose SoundSport Headphones,1,99.99,10/30/20 9:54,Tien Giang
+162588,Apple Airpods Headphones,1,150,10/08/20 21:01,Thanh pho Ho Cho Minh
+162589,AAA Batteries (4-pack),2,2.99,10/16/20 19:13,Tra Vinh
+162590,Vareebadd Phone,1,400,10/10/20 19:10,Tuyen Quang
+162591,Wired Headphones,1,11.99,10/08/20 16:27,Vinh Long
+162592,iPhone,1,700,10/25/20 12:06,Vinh Phuc
+162593,USB-C Charging Cable,1,11.95,10/28/20 8:13,Yen Bai
+162594,Wired Headphones,1,11.99,11/21/20 9:54,Quang Tri
+162595,USB-C Charging Cable,2,11.95,11/17/20 10:03,Soc Trang
+162596,Apple Airpods Headphones,1,150,11/19/20 14:56,Son La
+162597,27in FHD Monitor,1,149.99,11/25/20 22:24,Tay Ninh
+162598,Bose SoundSport Headphones,1,99.99,11/09/20 13:56,Thai Binh
+162599,USB-C Charging Cable,1,11.95,11/14/20 20:34,Thai Nguyen
+162600,Lightning Charging Cable,1,14.95,11/11/20 8:05,Thanh Hoa
+162601,Bose SoundSport Headphones,1,99.99,11/15/20 11:48,Thua Thien Hue
+162602,Lightning Charging Cable,1,14.95,11/27/20 11:50,Tien Giang
+162603,Bose SoundSport Headphones,1,99.99,11/19/20 19:12,Thanh pho Ho Cho Minh
+162604,ThinkPad Laptop,1,999.99,11/19/20 19:12,Tra Vinh
+162605,ThinkPad Laptop,1,999.99,11/25/20 21:52,Tuyen Quang
+162606,AAA Batteries (4-pack),1,2.99,11/23/20 13:19,Vinh Long
+162607,AA Batteries (4-pack),1,3.84,11/17/20 12:38,Vinh Phuc
+162608,USB-C Charging Cable,1,11.95,11/03/20 16:55,Yen Bai
+162609,Wired Headphones,1,11.99,11/06/20 16:01,An Giang
+162610,Apple Airpods Headphones,1,150,11/06/20 16:01,Vung Tau
+162611,Apple Airpods Headphones,1,150,11/17/20 20:08,Bac Giang
+162612,Macbook Pro Laptop,1,1700,11/09/20 22:40,Bac Kan
+162612,AA Batteries (4-pack),3,3.84,11/16/20 16:45,Bac Lieu
+162613,Lightning Charging Cable,1,14.95,11/18/20 13:06,Bac Ninh
+162614,Lightning Charging Cable,1,14.95,11/08/20 8:58,Ben Tre
+162615,USB-C Charging Cable,1,11.95,11/05/20 23:25,Binh Dinh
+162616,USB-C Charging Cable,1,11.95,11/16/20 22:12,Binh Duong
+162617,iPhone,1,700,11/04/20 6:20,Binh Phuoc
+162618,Apple Airpods Headphones,1,150,11/04/20 6:20,Binh Thuan
+162619,USB-C Charging Cable,2,11.95,11/17/20 15:11,Ca Mau
+162620,USB-C Charging Cable,1,11.95,11/25/20 16:17,Can Tho
+162621,Bose SoundSport Headphones,1,99.99,11/20/20 8:17,Cao Bang
+162622,AA Batteries (4-pack),1,3.84,11/29/20 20:42,Hoa Binh
+162623,27in FHD Monitor,1,149.99,11/08/20 11:05,Hung Yen
+162623,Bose SoundSport Headphones,1,99.99,11/02/20 0:35,Khanh Hua
+162624,20in Monitor,1,109.99,11/26/20 15:58,Kien Giang
+162625,Apple Airpods Headphones,1,150,11/01/20 13:06,Kon Tum
+162626,34in Ultrawide Monitor,1,379.99,11/12/20 20:24,Lai Chau
+162627,iPhone,1,700,11/20/20 22:19,Lam Dong
+162628,USB-C Charging Cable,1,11.95,11/04/20 13:28,Lang Son
+162629,Bose SoundSport Headphones,1,99.99,11/11/20 12:37,Lao Cai
+162630,Vareebadd Phone,1,400,11/10/20 16:10,Long An
+162631,iPhone,1,700,11/04/20 10:34,Nam Dinh
+162632,Lightning Charging Cable,2,14.95,11/04/20 10:34,Nghe An
+162633,Wired Headphones,1,11.99,11/07/20 13:19,Ninh Binh
+162634,AAA Batteries (4-pack),1,2.99,11/13/20 20:05,Ninh Thuan
+162635,Wired Headphones,1,11.99,11/26/20 20:48,Phu Yen
+162636,AA Batteries (4-pack),1,3.84,11/10/20 16:05,Quang Binh
+162637,Flatscreen TV,1,300,11/12/20 15:37,Quang Nam
+162638,Lightning Charging Cable,1,14.95,11/23/20 11:16,Quang Ngoi
+162639,Bose SoundSport Headphones,1,99.99,11/23/20 20:46,Quang Ninh
+162640,27in FHD Monitor,1,149.99,11/23/20 20:46,Quang Tri
+162641,USB-C Charging Cable,1,11.95,11/28/20 9:07,Da Nang
+162642,AA Batteries (4-pack),1,3.84,11/06/20 0:37,Dak Lak
+162643,USB-C Charging Cable,1,11.95,11/07/20 11:59,Dak Nong
+162644,20in Monitor,1,109.99,11/24/20 12:37,Dien Bien
+162645,Lightning Charging Cable,1,14.95,11/09/20 11:46,Dong Nai
+162646,Lightning Charging Cable,1,14.95,11/25/20 22:05,Dong Thap
+162647,34in Ultrawide Monitor,1,379.99,11/12/20 13:52,Gia Lai
+162648,Flatscreen TV,1,300,11/23/20 16:40,Ha Giang
+162649,AAA Batteries (4-pack),1,2.99,11/16/20 11:49,Ha Nam
+162650,USB-C Charging Cable,1,11.95,11/21/20 14:25,Ha Noi
+162651,Apple Airpods Headphones,1,150,11/08/20 19:49,Ha Tinh
+162652,AAA Batteries (4-pack),1,2.99,11/12/20 16:53,Hai Duong
+162653,AAA Batteries (4-pack),1,2.99,11/20/20 19:01,Hau Giang
+162654,Macbook Pro Laptop,1,1700,12/30/20 0:01,Nam Dinh
+162655,LG Washing Machine,1,600,12/29/20 7:03,Nghe An
+162656,USB-C Charging Cable,1,11.95,12/12/20 18:21,Ninh Binh
+162657,27in FHD Monitor,1,149.99,12/22/20 15:13,Ninh Thuan
+162658,USB-C Charging Cable,1,11.95,12/18/20 12:38,Phu Yen
+162659,AA Batteries (4-pack),1,3.84,12/31/20 22:58,Quang Binh
+162660,USB-C Charging Cable,1,11.95,12/16/20 15:10,Quang Nam
+162661,USB-C Charging Cable,2,11.95,12/13/20 9:29,Quang Ngoi
+162661,Bose SoundSport Headphones,1,99.99,12/15/20 23:26,Quang Ninh
+162662,AAA Batteries (4-pack),4,2.99,12/28/20 11:51,Quang Tri
+162663,USB-C Charging Cable,2,11.95,12/13/20 13:52,Soc Trang
+162664,ThinkPad Laptop,1,999.99,12/28/20 17:19,Son La
+162665,AA Batteries (4-pack),2,3.84,12/20/20 19:19,Tay Ninh
+162666,AAA Batteries (4-pack),2,2.99,12/06/20 9:38,Thai Binh
+162667,USB-C Charging Cable,1,11.95,12/25/20 9:39,Thai Nguyen
+162668,Lightning Charging Cable,1,14.95,12/01/20 14:30,Thanh Hoa
+162669,Google Phone,1,600,12/25/20 12:37,Thanh pho Ho Cho Minh
+162670,USB-C Charging Cable,1,11.95,12/25/20 12:37,An Giang
+162671,Bose SoundSport Headphones,1,99.99,12/25/20 12:37,Vung Tau
+162672,Wired Headphones,1,11.99,12/25/20 12:37,Bac Giang
+162673,USB-C Charging Cable,1,11.95,12/23/20 19:25,Bac Kan
+162674,Wired Headphones,1,11.99,12/23/20 22:46,Bac Liou
+162675,AAA Batteries (4-pack),4,2.99,12/04/20 12:29,Bac Ninh
+162676,Wired Headphones,1,11.99,12/11/20 22:54,Ben Tre
+162677,USB-C Charging Cable,1,11.95,12/17/20 16:10,Binh Dinh
+162678,Apple Airpods Headphones,1,150,12/10/20 0:38,Binh Duong
+162679,Apple Airpods Headphones,1,150,12/08/20 11:21,Binh Phuoc
+162680,LG Washing Machine,1,600,12/24/20 11:21,Binh Thuan
+162681,Apple Airpods Headphones,1,150,12/04/20 0:44,Ca Mau
+162682,Bose SoundSport Headphones,1,99.99,12/22/20 18:34,Can Tho
+162683,AA Batteries (4-pack),2,3.84,12/14/20 1:21,Cao Bang
+162684,Wired Headphones,1,11.99,12/16/20 16:40,Da Nang
+162685,Lightning Charging Cable,1,14.95,12/26/20 18:18,Dak Lak
+162686,Lightning Charging Cable,1,14.95,12/14/20 6:09,Dak Nong
+162687,Lightning Charging Cable,1,14.95,12/23/20 13:09,Dien Bien
+162688,ThinkPad Laptop,1,999.99,12/15/20 7:38,Dong Nai
+162689,Vareebadd Phone,1,400,12/13/20 14:32,Thua Thien Hue
+162690,USB-C Charging Cable,2,11.95,12/13/20 14:32,Tien Giang
+162691,AA Batteries (4-pack),1,3.84,12/17/20 18:32,Tra Vinh
+162692,Bose SoundSport Headphones,1,99.99,12/25/20 19:02,Tuyen Quang
+162693,Bose SoundSport Headphones,1,99.99,12/28/20 15:05,Vinh Long
+162694,Wired Headphones,2,11.99,12/21/20 18:50,Vinh Phuc
+162695,AA Batteries (4-pack),1,3.84,12/17/20 12:27,Yen Bai
+162696,Bose SoundSport Headphones,1,99.99,12/17/20 12:27,Hai Phong
+162697,Wired Headphones,1,11.99,12/12/20 0:20,Hau Giang
+162698,Wired Headphones,1,11.99,12/25/20 10:41,Hoa Binh
+162699,AAA Batteries (4-pack),3,2.99,12/12/20 20:08,Hung Yen
+162700,Lightning Charging Cable,1,14.95,12/07/20 11:01,Khanh Hua
+162701,27in FHD Monitor,1,149.99,12/13/20 14:55,Kien Giang
+162702,Bose SoundSport Headphones,1,99.99,12/25/20 16:38,Kon Tum
+162703,AAA Batteries (4-pack),1,2.99,12/26/20 19:09,Lai Chau
+162704,AAA Batteries (4-pack),2,2.99,12/04/20 13:43,Lam Dong
+162705,Macbook Pro Laptop,1,1700,12/10/20 20:02,Lang Son
+162706,Bose SoundSport Headphones,1,99.99,12/24/20 7:55,Lao Cai
+162707,iPhone,1,700,12/31/20 7:39,Long An
+162708,USB-C Charging Cable,2,11.95,12/17/20 18:20,Dong Thap
+162709,20in Monitor,1,109.99,12/03/20 23:28,Gia Lai
+162710,Macbook Pro Laptop,1,1700,12/25/20 9:51,Ha Giang
+162711,Lightning Charging Cable,1,14.95,12/27/20 17:25,Ha Nam
+162712,27in FHD Monitor,1,149.99,12/24/20 18:51,Ha Noi
+162713,AA Batteries (4-pack),1,3.84,12/17/20 22:52,Ha Tinh
+162714,34in Ultrawide Monitor,1,379.99,12/08/20 18:22,Hai Duong
