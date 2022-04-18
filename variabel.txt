@@ -1,4 +1,0 @@
-- Tên bi?n không b?t d?u b?ng khóa và không du?c trùng v?i t? khóa c?a Python
-- Tên c?a bi?n chua các ch? cái, s? và _
-- Có phân bi?t ch? vi?t hoa và vi?t thu?ng
-- vi?t không xu?ng dòng print(<bi?n>, end="")
